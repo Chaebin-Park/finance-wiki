@@ -8,10 +8,11 @@ related:
   - "[[pages/sectors/ai-semiconductor]]"
   - "[[pages/macro/us-10y-yield]]"
 last_price: 0
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 sources:
   - "WSJ 2026-05-13: Stocks Sink in Broad AI Rout Sparked by China's DeepSeek"
   - "WSJ 2026-05-13: DeepSeek Won't Sink U.S. AI Titans"
+  - "MarketWatch 2026-05-14: Cerebras IPO $185 — AI 인프라 투자 심리 확인"
 ---
 
 # Nvidia (NVDA)
@@ -19,6 +20,11 @@ sources:
 GPU 기반 AI 반도체 시장의 절대 강자. 데이터센터 AI 가속기(H100, B200) 수요로 2023~2025년 폭발적 성장. AI 인프라 투자 사이클의 핵심 수혜주.
 
 ## 최근 동향
+
+### 2026-05-14 — NASDAQ 반등 속 DeepSeek 서사 지속, Cerebras IPO가 AI 수요 재확인
+NASDAQ이 +1.20% 반등하며 DeepSeek 쇼크 이후 단기 회복 흐름을 보였다. Cerebras(AI 반도체 스타트업)가 IPO 가격을 $185로 확정하며 예상 상단($160)을 초과 달성, AI 인프라 투자 수요가 여전히 강하다는 신호를 발신했다. 단, 미국 30년물 금리가 5%를 돌파하며 고밸류에이션 AI 주에 구조적 부담이 가중되고 있다.
+
+- 출처: [[daily/2026-05-14]]
 
 ### 2026-05-13 — DeepSeek 쇼크로 단일 세션 -16% 폭락
 중국 AI 스타트업 DeepSeek의 효율적 모델이 고비용 AI 인프라 수요를 대체할 수 있다는 우려가 퍼지며 Nvidia가 하루 만에 16% 급락했다. Broadcom 등 AI 인프라 관련주도 두 자리 수 하락을 기록했다. WSJ은 패닉이 과도하며 미국 AI 기업들의 장기 경쟁력은 훼손되지 않는다고 분석했다.

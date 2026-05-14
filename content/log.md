@@ -5,6 +5,17 @@
 
 ---
 
+## [2026-05-14] daily-ingest | KOSPI -2.6% 급락, 미국 30년물 5% 돌파(20년 만에 최초), Warsh 연준 의장 인준
+- Raw: [[raw/daily/2026-05-14]]
+- Report: [[daily/2026-05-14]]
+- Updated: [[pages/companies/005930-samsung-electronics]], [[pages/companies/nvda-nvidia]]
+- Created: [[pages/companies/009150-samsung-electro-mechanics]], [[pages/companies/036570-ncsoft]], [[pages/companies/039130-hanatour]], [[pages/companies/csco-cisco]]
+- Sectors: [[pages/sectors/ai-semiconductor]], [[pages/sectors/energy]], [[pages/sectors/gaming]], [[pages/sectors/travel]]
+- Macro: [[pages/macro/usd-krw]], [[pages/macro/wti]], [[pages/macro/us-10y-yield]], [[pages/macro/us-30y-yield]]
+- Sentiment: bearish (KOSPI -2.6% / 30년물 5% 돌파 / 이란 협상 교착 / Warsh 매파 인준)
+
+---
+
 ## [2026-05-13] daily-ingest | KOSPI 사상 최고 7844, DeepSeek AI 쇼크, 미국 CPI 3.8%
 - Raw: [[raw/daily/2026-05-13]]
 - Report: [[daily/2026-05-13]]
