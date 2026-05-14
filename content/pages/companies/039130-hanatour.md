@@ -18,6 +18,26 @@ sources:
 
 국내 최대 아웃바운드 여행사. 해외 패키지 여행·자유여행 상품 판매. 고유가와 원화 약세에 직접적으로 취약한 구조적 특성을 가짐.
 
+<!-- TradingView Widget -->
+<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+    "symbol": "KRX:039130",
+    "width": "100%",
+    "height": 220,
+    "locale": "kr",
+    "dateRange": "3M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": true
+  }
+  </script>
+</div>
+
 ## 최근 동향
 
 ### 2026-05-14 — 키움증권 목표가 하향, 2Q 여행수요 위축 우려
