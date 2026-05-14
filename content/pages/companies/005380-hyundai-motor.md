@@ -17,6 +17,26 @@ sources:
 
 현대자동차그룹의 핵심 완성차 기업. 최근 로보틱스 사업(보스턴다이나믹스 등) 확장으로 모빌리티+로봇 복합 기업으로 재평가받고 있다.
 
+<!-- TradingView Widget -->
+<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+    "symbol": "KRX:005380",
+    "width": "100%",
+    "height": 220,
+    "locale": "kr",
+    "dateRange": "3M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": true
+  }
+  </script>
+</div>
+
 ## 최근 동향
 
 ### 2026-05-13 — 사상 첫 70만원 돌파, 약 +10% 급등

@@ -17,6 +17,26 @@ sources:
 
 국내 최대 반도체·전자 기업. DRAM, NAND, 파운드리, 스마트폰 등 다각화된 사업 포트폴리오 보유.
 
+<!-- TradingView Widget -->
+<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+    "symbol": "KRX:005930",
+    "width": "100%",
+    "height": 220,
+    "locale": "kr",
+    "dateRange": "3M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": true
+  }
+  </script>
+</div>
+
 ## 최근 동향
 
 ### 2026-05-14 — RISE 삼성전자SK하이닉스채권혼합50 ETF 순자산 2조 돌파

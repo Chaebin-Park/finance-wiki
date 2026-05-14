@@ -16,6 +16,26 @@ sources:
 
 KG그룹 계열 철강 기업. 2026년 모빌리티 밸류업 투자를 통해 EV/모빌리티 밸류체인으로 사업 다각화를 추진 중.
 
+<!-- TradingView Widget -->
+<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+    "symbol": "KRX:016380",
+    "width": "100%",
+    "height": 220,
+    "locale": "kr",
+    "dateRange": "3M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": true
+  }
+  </script>
+</div>
+
 ## 최근 동향
 
 ### 2026-05-13 — 케이모빌리티밸류업사모투자 합자회사 1천억 취득
