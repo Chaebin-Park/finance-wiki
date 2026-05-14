@@ -18,6 +18,10 @@ sources:
 
 국내 최대 아웃바운드 여행사. 해외 패키지 여행·자유여행 상품 판매. 고유가와 원화 약세에 직접적으로 취약한 구조적 특성을 가짐.
 
+<div class="finance-price-chart" data-ticker="KRX-039130" style="height:220px;margin:1rem 0;">
+  <canvas></canvas>
+</div>
+
 ## 최근 동향
 
 ### 2026-05-14 — 키움증권 목표가 하향, 2Q 여행수요 위축 우려

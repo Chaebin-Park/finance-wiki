@@ -16,24 +16,8 @@ sources:
 
 액션 어드벤처 게임 '붉은사막' 개발사. 검은사막(Black Desert Online) IP를 보유한 국내 주요 게임 개발사.
 
-<!-- TradingView Widget -->
-<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-  {
-    "symbol": "KOSDAQ:263750",
-    "width": "100%",
-    "height": 220,
-    "locale": "kr",
-    "dateRange": "3M",
-    "colorTheme": "light",
-    "trendLineColor": "rgba(41, 98, 255, 1)",
-    "underLineColor": "rgba(41, 98, 255, 0.3)",
-    "underLineBottomColor": "rgba(41, 98, 255, 0)",
-    "isTransparent": false,
-    "autosize": true
-  }
-  </script>
+<div class="finance-price-chart" data-ticker="KOSDAQ-263750" style="height:220px;margin:1rem 0;">
+  <canvas></canvas>
 </div>
 
 ## 최근 동향

@@ -17,6 +17,10 @@ sources:
 
 삼성그룹 계열 전자부품 전문 기업. MLCC(적층세라믹콘덴서), 카메라 모듈, 반도체 패키지(FC-BGA) 등 핵심 전자부품 제조. 스마트폰·자동차·AI 서버 수요와 연동.
 
+<div class="finance-price-chart" data-ticker="KRX-009150" style="height:220px;margin:1rem 0;">
+  <canvas></canvas>
+</div>
+
 ## 최근 동향
 
 ### 2026-05-14 — KB증권 목표가 110만→140만원 대폭 상향

@@ -16,6 +16,10 @@ sources:
 
 글로벌 네트워킹 장비 1위 기업. 라우터·스위치 중심의 레거시 IT 사업에서 AI 인프라·보안·클라우드로 전환 중. 2024~2026년 AI 데이터센터 네트워킹 수요 확대의 수혜주로 재조명.
 
+<div class="finance-price-chart" data-ticker="NASDAQ-CSCO" style="height:220px;margin:1rem 0;">
+  <canvas></canvas>
+</div>
+
 ## 최근 동향
 
 ### 2026-05-14 — AI 전환 가속: 감원 + AI 투자 확대, 주가 사상 최고 접근

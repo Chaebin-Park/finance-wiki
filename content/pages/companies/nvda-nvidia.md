@@ -19,24 +19,8 @@ sources:
 
 GPU 기반 AI 반도체 시장의 절대 강자. 데이터센터 AI 가속기(H100, B200) 수요로 2023~2025년 폭발적 성장. AI 인프라 투자 사이클의 핵심 수혜주.
 
-<!-- TradingView Widget -->
-<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-  {
-    "symbol": "NASDAQ:NVDA",
-    "width": "100%",
-    "height": 220,
-    "locale": "kr",
-    "dateRange": "3M",
-    "colorTheme": "light",
-    "trendLineColor": "rgba(41, 98, 255, 1)",
-    "underLineColor": "rgba(41, 98, 255, 0.3)",
-    "underLineBottomColor": "rgba(41, 98, 255, 0)",
-    "isTransparent": false,
-    "autosize": true
-  }
-  </script>
+<div class="finance-price-chart" data-ticker="NASDAQ-NVDA" style="height:220px;margin:1rem 0;">
+  <canvas></canvas>
 </div>
 
 ## 최근 동향
