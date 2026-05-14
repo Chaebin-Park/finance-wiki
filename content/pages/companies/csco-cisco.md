@@ -16,26 +16,6 @@ sources:
 
 글로벌 네트워킹 장비 1위 기업. 라우터·스위치 중심의 레거시 IT 사업에서 AI 인프라·보안·클라우드로 전환 중. 2024~2026년 AI 데이터센터 네트워킹 수요 확대의 수혜주로 재조명.
 
-<!-- TradingView Widget -->
-<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-  {
-    "symbol": "NASDAQ:CSCO",
-    "width": "100%",
-    "height": 220,
-    "locale": "kr",
-    "dateRange": "3M",
-    "colorTheme": "light",
-    "trendLineColor": "rgba(41, 98, 255, 1)",
-    "underLineColor": "rgba(41, 98, 255, 0.3)",
-    "underLineBottomColor": "rgba(41, 98, 255, 0)",
-    "isTransparent": false,
-    "autosize": true
-  }
-  </script>
-</div>
-
 ## 최근 동향
 
 ### 2026-05-14 — AI 전환 가속: 감원 + AI 투자 확대, 주가 사상 최고 접근

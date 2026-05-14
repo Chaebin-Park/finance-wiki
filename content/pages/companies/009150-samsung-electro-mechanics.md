@@ -17,26 +17,6 @@ sources:
 
 삼성그룹 계열 전자부품 전문 기업. MLCC(적층세라믹콘덴서), 카메라 모듈, 반도체 패키지(FC-BGA) 등 핵심 전자부품 제조. 스마트폰·자동차·AI 서버 수요와 연동.
 
-<!-- TradingView Widget -->
-<div class="tradingview-widget-container" style="height:220px;margin:1rem 0;">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-  {
-    "symbol": "KRX:009150",
-    "width": "100%",
-    "height": 220,
-    "locale": "kr",
-    "dateRange": "3M",
-    "colorTheme": "light",
-    "trendLineColor": "rgba(41, 98, 255, 1)",
-    "underLineColor": "rgba(41, 98, 255, 0.3)",
-    "underLineBottomColor": "rgba(41, 98, 255, 0)",
-    "isTransparent": false,
-    "autosize": true
-  }
-  </script>
-</div>
-
 ## 최근 동향
 
 ### 2026-05-14 — KB증권 목표가 110만→140만원 대폭 상향
