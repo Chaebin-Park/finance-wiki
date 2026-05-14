@@ -5,6 +5,16 @@
 
 ---
 
+## [2026-05-14] terms-init | 용어 사전 초기 구축 — 23개 term 페이지 생성
+- Created: [[pages/terms/cpi]], [[pages/terms/fed]], [[pages/terms/hawkish-dovish]], [[pages/terms/bond-yield]], [[pages/terms/wti]], [[pages/terms/geopolitical-premium]]
+- Created: [[pages/terms/per]], [[pages/terms/valuation]], [[pages/terms/ipo]], [[pages/terms/market-cap]], [[pages/terms/etf]], [[pages/terms/price-target]], [[pages/terms/capex]]
+- Created: [[pages/terms/panic-selling]], [[pages/terms/profit-taking]], [[pages/terms/buy-rumor-sell-news]], [[pages/terms/momentum]]
+- Created: [[pages/terms/hbm]], [[pages/terms/mlcc]], [[pages/terms/foundry]], [[pages/terms/fc-bga]], [[pages/terms/value-chain]], [[pages/terms/mau]]
+- Source: [[daily/2026-05-13]], [[daily/2026-05-14]] 에서 용어 추출
+- Updated: [[index.md]] Terms 섹션 추가, [[CLAUDE.md]] term 페이지 타입 및 ingest 워크플로우 업데이트
+
+---
+
 ## [2026-05-14] daily-ingest | KOSPI -2.6% 급락, 미국 30년물 5% 돌파(20년 만에 최초), Warsh 연준 의장 인준
 - Raw: [[raw/daily/2026-05-14]]
 - Report: [[daily/2026-05-14]]
