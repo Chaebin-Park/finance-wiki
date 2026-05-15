@@ -5,6 +5,15 @@
 
 ---
 
+## [2026-05-15] daily-ingest | SK하이닉스 목표가 300만원, 삼성전기 MLCC 가격 인상, 하나금융 두나무 1조 투자
+- Raw: [[raw/daily/2026-05-15]]
+- Report: [[daily/2026-05-15]]
+- Updated: [[pages/companies/009150-samsung-electro-mechanics]], [[pages/sectors/ai-semiconductor]], [[pages/macro/usd-krw]], [[pages/macro/wti]], [[pages/macro/us-10y-yield]], [[pages/macro/us-cpi]]
+- Created: [[pages/companies/020150-lotte-energy-materials]], [[pages/terms/fomo]], [[pages/terms/stable-coin]]
+- Sentiment: neutral
+
+---
+
 ## [2026-05-14] terms-init | 용어 사전 초기 구축 — 23개 term 페이지 생성
 - Created: [[pages/terms/cpi]], [[pages/terms/fed]], [[pages/terms/hawkish-dovish]], [[pages/terms/bond-yield]], [[pages/terms/wti]], [[pages/terms/geopolitical-premium]]
 - Created: [[pages/terms/per]], [[pages/terms/valuation]], [[pages/terms/ipo]], [[pages/terms/market-cap]], [[pages/terms/etf]], [[pages/terms/price-target]], [[pages/terms/capex]]

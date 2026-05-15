@@ -2,7 +2,7 @@
 type: macro
 indicator: "미국 CPI (소비자물가지수)"
 last_value: 3.8
-last_updated: 2026-05-13
+last_updated: 2026-05-15
 tags: [인플레이션, cpi, 미국, 연준, 이란전쟁]
 related:
   - "[[pages/macro/wti]]"
@@ -20,6 +20,7 @@ sources:
 
 | 날짜 | 값(%) | 비고 |
 |------|-------|------|
+| 2026-05-15 | 3.8 | 4월 CPI 확인, 근원물가도 상승 |
 | 2026-05-13 | 3.8 | 2023년 5월 이후 최고치 |
 
 ## 해석
