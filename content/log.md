@@ -5,6 +5,15 @@
 
 ---
 
+## [2026-05-18] daily-ingest | KOSPI -2.40% 급락, USD/KRW 1,500원 돌파, 미국 10년물 4.59% 급등
+- Raw: [[raw/daily/2026-05-18]]
+- Report: [[daily/2026-05-18]]
+- Updated: [[pages/macro/usd-krw]], [[pages/macro/wti]], [[pages/macro/us-10y-yield]], [[pages/sectors/energy]], [[pages/sectors/ai-semiconductor]]
+- Created: [[pages/terms/nav]]
+- Sentiment: bearish
+
+---
+
 ## [2026-05-15] daily-ingest | SK하이닉스 목표가 300만원, 삼성전기 MLCC 가격 인상, 하나금융 두나무 1조 투자
 - Raw: [[raw/daily/2026-05-15]]
 - Report: [[daily/2026-05-15]]
