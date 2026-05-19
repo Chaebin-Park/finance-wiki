@@ -5,6 +5,15 @@
 
 ---
 
+## [2026-05-19] daily-ingest | KOSPI 급반등, 트럼프 이란 공격 취소, 한화시스템·CCL 섹터 강세
+- Raw: [[raw/daily/2026-05-19]]
+- Report: [[daily/2026-05-19]]
+- Updated: [[pages/macro/usd-krw]], [[pages/macro/wti]], [[pages/macro/us-10y-yield]], [[pages/sectors/energy]], [[pages/sectors/ai-semiconductor]]
+- Created: [[pages/terms/ccl]]
+- Sentiment: neutral
+
+---
+
 ## [2026-05-18] daily-ingest | KOSPI -2.40% 급락, USD/KRW 1,500원 돌파, 미국 10년물 4.59% 급등
 - Raw: [[raw/daily/2026-05-18]]
 - Report: [[daily/2026-05-18]]
