@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-05-20] daily-ingest | 삼성전자 총파업 D-1, 미국 10년물 4.67% 新고금리 경고, WTI -4.39%
+- Raw: [[raw/daily/2026-05-20]]
+- Report: [[daily/2026-05-20]]
+- Updated: [[pages/macro/us-10y-yield]], [[pages/macro/wti]], [[pages/macro/usd-krw]], [[pages/macro/us-30y-yield]], [[pages/companies/005930-samsung-electronics]], [[pages/companies/nvda-nvidia]], [[pages/companies/039130-hanatour]], [[pages/sectors/ai-semiconductor]], [[pages/sectors/energy]], [[pages/sectors/travel]]
+- Sentiment: bearish
+
+---
+
 ## [2026-05-19] daily-ingest | KOSPI 급반등, 트럼프 이란 공격 취소, 한화시스템·CCL 섹터 강세
 - Raw: [[raw/daily/2026-05-19]]
 - Report: [[daily/2026-05-19]]

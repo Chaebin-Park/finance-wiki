@@ -8,7 +8,7 @@ related:
   - "[[pages/sectors/ai-semiconductor]]"
   - "[[pages/macro/us-10y-yield]]"
 last_price: 0
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 sources:
   - "WSJ 2026-05-13: Stocks Sink in Broad AI Rout Sparked by China's DeepSeek"
   - "WSJ 2026-05-13: DeepSeek Won't Sink U.S. AI Titans"
@@ -24,6 +24,11 @@ GPU 기반 AI 반도체 시장의 절대 강자. 데이터센터 AI 가속기(H1
 </div>
 
 ## 최근 동향
+
+### 2026-05-20 — NASDAQ -0.84%, AI 클라우드 경쟁 심화 속 실적 발표 임박
+NASDAQ이 -0.84% 하락하며 AI 관련주에 압박이 가해졌다. Google·Blackstone 클라우드 합작이 CoreWeave 등 AI 인프라 기업에 경쟁 심화 우려를 불러일으켰다. AI 하드웨어(Nvidia)에서 AI 클라우드 인프라로 경쟁 무게 중심이 이동하는 신호. Nvidia 실적 발표가 임박한 상황에서 AI 수요 서사의 건강성 확인이 관건. 미국 10년물 금리 4.67%의 추가 상승은 고밸류에이션 성장주에 지속적 부담.
+
+- 출처: [[daily/2026-05-20]]
 
 ### 2026-05-19 — 이번 주 실적 발표 예정, S&P 500 이익 성장 1위 유지
 NASDAQ이 -0.51% 소폭 약세를 보이는 가운데 이번 주 Nvidia·Alphabet 실적 발표가 예정되어 있다. Nvidia는 S&P 500 전체 이익 성장 기여도 1위를 유지하고 있으며, Micron이 2위로 부상하며 AI 수익원이 다변화되고 있다. 실적 발표는 AI 인프라 투자 사이클의 건강성을 재확인하는 분수령이 될 전망. 미국 10년물 금리가 4.62%로 추가 상승해 고밸류에이션 압박은 지속.

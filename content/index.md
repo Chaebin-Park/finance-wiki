@@ -1,12 +1,13 @@
 # Finance Wiki Index
 
-> Last updated: 2026-05-19 | Daily Reports: 5 | Companies: 10 | Sectors: 5 | Macro: 5 | Terms: 27
+> Last updated: 2026-05-20 | Daily Reports: 6 | Companies: 10 | Sectors: 5 | Macro: 5 | Terms: 27
 
 ---
 
 ## Daily Reports
 <!-- 일간 시장 분석 리포트. 최신순 -->
 
+- [[daily/2026-05-20]] — 삼성전자 총파업 D-1 / 미국 10년물 4.67% 新고금리 경고 / WTI -4.39% / Google 스마트 글라스 | sentiment: bearish
 - [[daily/2026-05-19]] — KOSPI 급반등 / 트럼프 이란 공격 취소 / 한화시스템 목표가 76% 상향 / CCL 섹터 강세 | sentiment: neutral
 - [[daily/2026-05-18]] — KOSPI -2.40% / USD/KRW 1,500원 돌파 / 미국 10년물 4.59% / 이란 교착 $3,000억 충격 경고 | sentiment: bearish
 - [[daily/2026-05-15]] — SK하이닉스 목표가 300만원 / 삼성전기 MLCC 가격 인상 / 하나금융 두나무 1조 투자 / 클래러티 법안 통과 | sentiment: neutral
@@ -45,9 +46,9 @@
 ## Macro
 <!-- 거시경제 지표 추적 페이지 -->
 
-- [[pages/macro/usd-krw]] — USD/KRW 1,494.58 | last_updated: 2026-05-19
-- [[pages/macro/wti]] — WTI $102.43 | last_updated: 2026-05-19
-- [[pages/macro/us-10y-yield]] — 미국 10년물 금리 4.62% | last_updated: 2026-05-19
+- [[pages/macro/usd-krw]] — USD/KRW 1,492.32 | last_updated: 2026-05-20
+- [[pages/macro/wti]] — WTI $103.89 | last_updated: 2026-05-20
+- [[pages/macro/us-10y-yield]] — 미국 10년물 금리 4.67% | last_updated: 2026-05-20
 - [[pages/macro/us-30y-yield]] — 미국 30년물 금리 5%+ (약 20년 만에 최초) | last_updated: 2026-05-14
 - [[pages/macro/us-cpi]] — 미국 CPI 3.8% (2023년 5월 이후 최고) | last_updated: 2026-05-13
 
