@@ -8,7 +8,7 @@ related:
   - "[[pages/sectors/ai-semiconductor]]"
   - "[[pages/macro/us-10y-yield]]"
 last_price: 0
-last_updated: 2026-05-14
+last_updated: 2026-05-19
 sources:
   - "WSJ 2026-05-13: Stocks Sink in Broad AI Rout Sparked by China's DeepSeek"
   - "WSJ 2026-05-13: DeepSeek Won't Sink U.S. AI Titans"
@@ -24,6 +24,11 @@ GPU 기반 AI 반도체 시장의 절대 강자. 데이터센터 AI 가속기(H1
 </div>
 
 ## 최근 동향
+
+### 2026-05-19 — 이번 주 실적 발표 예정, S&P 500 이익 성장 1위 유지
+NASDAQ이 -0.51% 소폭 약세를 보이는 가운데 이번 주 Nvidia·Alphabet 실적 발표가 예정되어 있다. Nvidia는 S&P 500 전체 이익 성장 기여도 1위를 유지하고 있으며, Micron이 2위로 부상하며 AI 수익원이 다변화되고 있다. 실적 발표는 AI 인프라 투자 사이클의 건강성을 재확인하는 분수령이 될 전망. 미국 10년물 금리가 4.62%로 추가 상승해 고밸류에이션 압박은 지속.
+
+- 출처: [[daily/2026-05-19]]
 
 ### 2026-05-14 — NASDAQ 반등 속 DeepSeek 서사 지속, Cerebras IPO가 AI 수요 재확인
 NASDAQ이 +1.20% 반등하며 DeepSeek 쇼크 이후 단기 회복 흐름을 보였다. Cerebras(AI 반도체 스타트업)가 IPO 가격을 $185로 확정하며 예상 상단($160)을 초과 달성, AI 인프라 투자 수요가 여전히 강하다는 신호를 발신했다. 단, 미국 30년물 금리가 5%를 돌파하며 고밸류에이션 AI 주에 구조적 부담이 가중되고 있다.
