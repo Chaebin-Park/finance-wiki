@@ -11,7 +11,7 @@ sources:
   - "WSJ 2026-05-13"
   - "연합뉴스 2026-05-13"
   - "MarketWatch 2026-05-14"
-last_updated: 2026-05-15
+last_updated: 2026-05-21
 ---
 
 # AI 반도체 (AI Semiconductor)
@@ -26,6 +26,16 @@ GPU, NPU, HBM 등 AI 연산에 특화된 반도체 설계·제조 섹터. Nvidia
 | 삼성전자 (005930) | HBM, DRAM 핵심 공급사 |
 
 ## 최근 동향
+
+### 2026-05-21 — NASDAQ +1.54% 랠리, 삼성전기 수주·Dell-Nvidia 협력으로 AI 공급망 저변 확대
+NASDAQ이 +1.54% 반등하며 AI 섹터 강세가 재개됐다. 두 가지 핵심 신호가 포착됐다:
+
+1. **삼성전기 실리콘 커패시터 1조5570억 2번째 수주**: AI 서버 빌드아웃이 GPU·HBM을 넘어 [[pages/terms/silicon-capacitor|실리콘 커패시터]]·[[pages/terms/test-socket|테스트소켓]] 등 부품 레이어까지 확산 중임을 확인.
+2. **Dell-Nvidia AI 에이전트 협력**: AI 하드웨어(GPU)에서 AI 소프트웨어 에이전트 레이어로 수요 확산. Yahoo Finance는 Nvidia·Apple의 시장 지배력이 전례 없는 수준이라고 분석.
+
+리노공업의 [[pages/terms/asic|ASIC]] 테스트소켓 수요 증가도 AI 반도체 공급망 저변 확대를 뒷받침하는 신호다. WTI -8.24% + 미국 10년물 금리 하락(-2.04%)으로 성장주 밸류에이션 부담이 동시에 완화됐다.
+
+- 출처: [[daily/2026-05-21]]
 
 ### 2026-05-20 — NASDAQ -0.84%, AI 클라우드 경쟁 심화 신호
 Google·Blackstone 클라우드 합작법인 설립으로 AI 인프라 경쟁이 하드웨어(GPU) 레이어를 넘어 클라우드 서비스 레이어로 확산되고 있다. CoreWeave 주가 하락은 AI 클라우드 시장이 더 이상 Nvidia 독점 수혜 구조가 아닐 수 있다는 경고 신호. 삼성전자 총파업 D-1은 HBM·DRAM 공급망 불안 요소로 부상. Nvidia 실적 발표가 이번 주 예정되어 있어 AI 수요 사이클의 분수령이 될 전망.

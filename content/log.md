@@ -5,6 +5,15 @@
 
 ---
 
+## [2026-05-21] daily-ingest | WTI -8.24% $100 붕괴, SpaceX IPO 신청, 삼성전기 실리콘커패시터 1.5조 수주, NASDAQ +1.54%
+- Raw: [[raw/daily/2026-05-21]]
+- Report: [[daily/2026-05-21]]
+- Updated: [[pages/companies/009150-samsung-electro-mechanics]], [[pages/companies/nvda-nvidia]], [[pages/sectors/ai-semiconductor]], [[pages/sectors/robotics]], [[pages/macro/usd-krw]], [[pages/macro/wti]], [[pages/macro/us-10y-yield]]
+- Created: [[pages/companies/012330-hyundai-mobis]], [[pages/companies/058470-lino-industrial]], [[pages/terms/silicon-capacitor]], [[pages/terms/asic]], [[pages/terms/test-socket]]
+- Sentiment: bullish
+
+---
+
 ## [2026-05-20] daily-ingest | 삼성전자 총파업 D-1, 미국 10년물 4.67% 新고금리 경고, WTI -4.39%
 - Raw: [[raw/daily/2026-05-20]]
 - Report: [[daily/2026-05-20]]
