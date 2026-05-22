@@ -8,13 +8,15 @@ related:
   - "[[pages/sectors/ai-semiconductor]]"
   - "[[pages/macro/us-10y-yield]]"
 last_price: 0
-last_updated: 2026-05-21
+last_updated: 2026-05-22
 sources:
   - "WSJ 2026-05-13: Stocks Sink in Broad AI Rout Sparked by China's DeepSeek"
   - "WSJ 2026-05-13: DeepSeek Won't Sink U.S. AI Titans"
   - "MarketWatch 2026-05-14: Cerebras IPO $185 — AI 인프라 투자 심리 확인"
   - "Yahoo Finance 2026-05-21: Dell Teams Up with Nvidia to Scale AI Agents"
   - "Yahoo Finance 2026-05-21: Nvidia and Apple hold stock market's power like never before"
+  - "Yahoo Finance 2026-05-22: Investors penalizing Nvidia for not boosting cash returns"
+  - "MarketWatch 2026-05-22: Nvidia can't buy Big Tech out of credit and power-grid crisis"
 ---
 
 # Nvidia (NVDA)
@@ -26,6 +28,11 @@ GPU 기반 AI 반도체 시장의 절대 강자. 데이터센터 AI 가속기(H1
 </div>
 
 ## 최근 동향
+
+### 2026-05-22 — NASDAQ 보합, -1.8% 소폭 조정 — 현금 환원 미흡 비판 부각
+NASDAQ이 +0.09% 거의 보합인 가운데 Nvidia는 -1.8% 소폭 조정을 받았다. Yahoo Finance가 Nvidia가 빅테크 동료(Apple, Microsoft 등) 대비 배당·자사주 매입 등 현금 환원이 미흡하다는 점을 투자자들이 페널티로 반영하고 있다고 분석했다. MarketWatch도 "Nvidia가 칩을 공급할 수 있지만 빅테크의 신용·전력망 위기를 해결할 수 없다"고 지적해 AI 인프라의 구조적 한계를 환기했다. 미·이란 협상 기대 속에서도 Nvidia 고유의 주주 환원 서사 갈등이 단기 하방 요인으로 작용.
+
+- 출처: [[daily/2026-05-22]]
 
 ### 2026-05-21 — NASDAQ +1.54%, Dell 협력으로 AI 에이전트 확장, 시장 집중 심화
 NASDAQ이 +1.54% 강세를 보이며 Nvidia 중심의 AI 랠리가 재개됐다. Yahoo Finance는 Nvidia와 Apple이 시장 전체에 미치는 영향력이 전례 없는 수준에 달했다고 분석했다. Dell이 Nvidia와 협력해 AI 에이전트 스케일 확대를 발표하며 AI 하드웨어(GPU) → AI 소프트웨어 에이전트 레이어로 수요가 확산되는 구조가 확인됐다. WTI -8.24%와 미국 10년물 금리 하락(-2.04%)이 동반되며 성장주 밸류에이션 부담이 완화됐다.

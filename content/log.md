@@ -5,6 +5,15 @@
 
 ---
 
+## [2026-05-22] daily-ingest | 미·이란 협상 타결 기류, KOSPI 7,800선 회복, 채권 credit termites 경고
+- Raw: [[raw/daily/2026-05-22]]
+- Report: [[daily/2026-05-22]]
+- Updated: [[pages/companies/nvda-nvidia]], [[pages/sectors/energy]], [[pages/macro/usd-krw]], [[pages/macro/wti]], [[pages/macro/us-10y-yield]]
+- Created: [[pages/companies/010060-oci]], [[pages/terms/btx]]
+- Sentiment: neutral
+
+---
+
 ## [2026-05-21] daily-ingest | WTI -8.24% $100 붕괴, SpaceX IPO 신청, 삼성전기 실리콘커패시터 1.5조 수주, NASDAQ +1.54%
 - Raw: [[raw/daily/2026-05-21]]
 - Report: [[daily/2026-05-21]]
